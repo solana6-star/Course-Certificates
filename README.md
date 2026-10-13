@@ -1,4 +1,8 @@
 # Course-Certificates
 To store your LinkedIn Learning Certificates.
-1. Introducing Jupyter Certificate
-![Introducing Jupyter Certificate](file:///C:/Users/ayana/Downloads/CertificateOfCompletion_Introducing%20Jupyter.pdf)
+
+[x] Introducing Jupyter Certificate
+
+[ ] Python Programming Certification
+
+[ ] Using Numpy Certification
