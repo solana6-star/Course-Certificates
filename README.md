@@ -5,4 +5,4 @@ To store your LinkedIn Learning Certificates.
 
 - [x] Python Programming Certification
 
-- [ ] Using Numpy Certification
+- [x] Using Numpy Certification
